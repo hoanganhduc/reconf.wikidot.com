@@ -1,0 +1,124 @@
+This page contains information about some conferences dedicated to Combinatorial Reconfiguration.
+
+[[toc]]
+
++ Advances in Reoptimization and Dynamic Algorithms 2019 (ARDA 2019)
+
+The conference was held on August 30, 2019 as a satellite workshop of [https://tcs.rwth-aachen.de/mfcs2019/ MFCS 2019] at [https://www.rwth-aachen.de/go/id/a/?lidx=1 RWTH Aachen]. For more information, see the [https://people.inf.ethz.ch/dkomm/arda2019/ conference's website]. Here, we provide links to the abstracts of the talks appeared in "Reconfiguration and Temporal Graph" session.
+
+[[ul]]
+[[li]]
+Till Fluschnik, Rolf Niedermeier, Valentin Rohm, and Philipp Zschoche. **Multistage vertex cover**. [[[a href="https://people.inf.ethz.ch/dkomm/arda2019/abstracts/ARDA2019-Fluschnik_Niedermeier_Rohm_Zschoche.pdf"]]abstract[[/a]]]
+[[/li]]
+[[li]]
+Thomas Erlebach, Frank Kammer, Kelin Luo, Andrej Sajenko, and Jakob Spooner. **Two moves per time step make a difference**. [[[a href="https://people.inf.ethz.ch/dkomm/arda2019/abstracts/ARDA2019-Erlebach_Kammer_Luo_Sajenko_Spooner.pdf"]]abstract[[/a]]]
+[[/li]]
+[[li]]
+Dennis Fischer and Janosch Fuchs. **Color reconfiguration with token swapping**. [[[a href="https://people.inf.ethz.ch/dkomm/arda2019/abstracts/ARDA2019-Fischer_Fuchs.pdf"]]abstract[[/a]]]
+[[/li]]
+[[/ul]]
+
++ The Third International Workshop on Combinatorial Reconfiguration (CoRe 2019)
+
+The conference was held on May 12-17, 2019 in Aussois, France. For more information, see the [http://oc.inpg.fr/conf/core2019/Main/HomePage conference's website]. Here, we provide links to some materials presented in the conference.
+
+[[ul]]
+[[li]]
+**List of Open Problems** [[[a href="https://pagesperso.g-scop.grenoble-inp.fr/~bousquen/CoRe_2019/CoRe_2019_Open_Problems.pdf"]]PDF[[/a]]]
+[[/li]]
+[[li]]
+Tutorials[[ul]]
+[[li]]
+Anna Lubiw. **Geometric Reconfiguration**. [[https://pagesperso.g-scop.grenoble-inp.fr/~bousquen/CoRe_2019/geometric-reconfig-1.pdf Part 1]], [[https://pagesperso.g-scop.grenoble-inp.fr/~bousquen/CoRe_2019/geometric-reconfig-2.pdf Part 2]]
+[[/li]][[li]]
+Amer Mouawad. **Algorithmic Aspects of Reconfiguration: Upper and Lower Bounds**. [[https://pagesperso.g-scop.grenoble-inp.fr/~bousquen/CoRe_2019/Mouawad_part1.pdf Part 1]], [[https://pagesperso.g-scop.grenoble-inp.fr/~bousquen/CoRe_2019/Mouawad_part2.pdf Part 2]]
+[[/li]]
+[[/ul]]
+[[/li]][[li]]
+Contributed Talks[[ul]]
+[[li]]
+Valentin Bartier. **Linear transformations between colorings in chordal graphs**. [[https://pagesperso.g-scop.grenoble-inp.fr/~bousquen/CoRe_2019/Bartier_CoRe2019.pdf slide]]
+[[/li]][[li]]
+Nicolas Bousquet. **Graph recoloring: From statistical physics to graph theory**. [[https://pagesperso.g-scop.grenoble-inp.fr/~bousquen/CoRe_2019/Bousquet_CoRe2019.pdf slide]]
+[[/li]][[li]]
+Richard Brewster. **Reconfiguration of homomorphisms to reflexive digraph cycles**. [[https://pagesperso.g-scop.grenoble-inp.fr/~bousquen/CoRe_2019/BrewsterCoRE2019.pdf slide]]
+[[/li]][[li]]
+Carl Feghali. **Reconfiguring colourings of graphs with bounded maximum average degree**.
+[[/li]][[li]]
+Marc Heinrich. **A polynomial version of Cereceda's conjecture**. [[https://pagesperso.g-scop.grenoble-inp.fr/~bousquen/CoRe_2019/Heinrich_CoRe2019.pdf slide]]
+[[/li]][[li]]
+Duc A. Hoang. **Shortest Reconfiguration Sequence for Sliding Tokens on Spiders**. [[https://pagesperso.g-scop.grenoble-inp.fr/~bousquen/CoRe_2019/Hoang_CoRe2019.pdf slide]]
+[[/li]][[li]]
+Jonathan Noel. **Reconfiguring Graph Homomorphisms**. [[https://pagesperso.g-scop.grenoble-inp.fr/~bousquen/CoRe_2019/NoelCoRe2019.pdf slide]]
+[[/li]][[li]]
+Arnaud Mary. **Reconfiguration of solutions to find them all**. [[https://pagesperso.g-scop.grenoble-inp.fr/~bousquen/CoRe_2019/mary_core2019.pdf slide]]
+[[/li]][[li]]
+Haruka Mizuta. **Reconfiguration of Steiner trees in specific graph classes**. [[https://pagesperso.g-scop.grenoble-inp.fr/~bousquen/CoRe_2019/mizuta_core2019.pdf slide]]
+[[/li]][[li]]
+Vijay Subramanya. **Reconfiguration of graph minors**. [[https://pagesperso.g-scop.grenoble-inp.fr/~bousquen/CoRe_2019/Subramanya_core2019.pdf slide]]
+[[/li]]
+[[/ul]]
+[[/li]]
+[[/ul]]
+
++ CanaDAM 2017's Mini-symposia on Reconfiguration
+
+The conference was held on June 12-15, 2017 in Toronto, Canada. For more information, please see the [https://canadam.math.ca/2017f/program/abs/rec.html conference's website ] and the symposia's [https://canadam.math.ca/2017/program/schedule_contributed_mini#rec schedule].
+Here, we provide links to some materials presented in the conference.
+
+[[ul]]
+[[li]]
+Naomi Nishimura. **Introduction to Reconfiguration**. [[http://cs.uwaterloo.ca/~nishi/reconfcanadam2017slides.pdf slide]]
+[[/li]]
+[[/ul]]
+
++ The Second International Workshop on Combinatorial Reconfiguration (CoRe 2017)
+
+The Second International Workshop on Combinatorial Reconfiguration (CoRe 2017) was held on January 23-27, 2017 in Banff, Alberta, Canada.
+Here, we provide links to some of the materials presented at CoRe 2017.
+
+[[ul]]
+[[li]]
+Naomi Nishimura, Takehiro Ito, Amer Mouawad. **Workshop's Final Report**. [[http://www.birs.ca/workshops/2017/17w5066/report17w5066.pdf PDF]]
+[[/li]][[li]]
+Takehiro Ito. **Invitation to Combinatorial Reconfiguration**. [[http://www.ecei.tohoku.ac.jp/alg/core/page/170123CoRe2017_talk.pdf slide]]
+[[/li]][[li]]
+Nicolas Bousquet. **Token Sliding on chordal graphs**. [[http://www.birs.ca/workshops/2017/17w5066/files/bousquet.pdf slide]] [[http://www.birs.ca/events/2017/5-day-workshops/17w5066/videos/watch/201701240907-Bousquet.html video]]
+[[/li]][[li]]
+Matthew Johnson. **Kempe Equivalence in Regular Graphs**. [[http://www.birs.ca/workshops/2017/17w5066/files/matthewjohnson.pdf slide]] [[http://www.birs.ca/events/2017/5-day-workshops/17w5066/videos/watch/201701251108-Johnson.html video]]
+[[/li]][[li]]
+Jan van den Heuvel. **Token-sliding problems**. [[http://www.birs.ca/workshops/2017/17w5066/files/van_den_Heuvel-talk-BIRS.pdf slide]] [[http://www.birs.ca/events/2017/5-day-workshops/17w5066/videos/watch/201701261043-vandenHeuvel.html video]]
+[[/li]][[li]]
+Karen Seyffarth. **Reconfiguring Vertex Colourings of [[$2$]]-Trees**. [[http://www.birs.ca/workshops/2017/17w5066/files/seyffarth.pdf slide]]
+[[/li]][[li]]
+Ruth Haas. **Reconfiguration of Dominating sets**. [[http://www.birs.ca/workshops/2017/17w5066/files/haas-Reconfig.pdf slide]]
+[[/li]]
+[[/ul]]For more information, please see the [http://www.birs.ca/events/2017/5-day-workshops/17w5066 conference's website].
+
+
+
++ Mini-symposium on Combinatorial Reconfiguration, Session MS20, 2016 SIAM Conference on Discrete Mathematics
+
+The conference was held on June 7, 2016 in Atlanta, Georgia, USA. For more information, see the [http://www.labri.fr/perso/mbonamy/SIAMDM16.html conference's website].
+Here, we provide links to some materials presented in the conference.
+
+[[ul]]
+[[li]]
+Takehiro Ito. **Invitation to Combinatorial Reconfiguration**. [[http://www.labri.fr/perso/mbonamy/takehiro_ito_invitation.pptx slide]]
+[[/li]][[li]]
+Carl Feghali. **Kempe Equivalence of Colourings of Graphs**. [[http://www.labri.fr/perso/mbonamy/carl_feghali_kempe.pdf slide]]
+[[/li]][[li]]
+Jesus Salas. **Kempe reconfiguration and Potts antiferromagnets**. [[http://www.labri.fr/perso/mbonamy/jesus_salas_kempe.pdf slide]]
+[[/li]][[li]]
+Amer Mouawad. **Shortest reconfiguration paths in the solution space of Boolean formulas**. [[http://www.labri.fr/perso/mbonamy/amer_mouawad_boolean.pdf slide]]
+[[/li]][[li]]
+Jonathan Noel. **Reconfiguring Graph Homomorphisms and Colourings**. [[http://www.labri.fr/perso/mbonamy/jon_noel_homomorphism.pdf slide]]
+[[/li]]
+[[/ul]]
+
++ The First International Workshop on Combinatorial Reconfiguration (CoRe 2015)
+
+The First International Workshop on Combinatorial Reconfiguration (CoRe 2015) was held on February 18-20, 2015 in Sendai, Japan.
+This is the first workshop dedicated to the topic of "combinatorial reconfiguration."
+The main goal of this workshop is to foster new collaborations between participants who have common interest in reconfiguration and related problems.
+For more information, please see the [http://www.ecei.tohoku.ac.jp/alg/core2015/ conference's website].

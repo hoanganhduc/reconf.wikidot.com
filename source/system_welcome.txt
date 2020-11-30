@@ -1,0 +1,43 @@
+[[div class="alert alert-success"]]
+[[module ListPages limit="1"]]
+[[div style="font-size: 32px; text-align: center;"]]
+Congratulations on creating %%site_title%%!
+[[/div]]
+[[/module]]
+
+[[div style="font-size: 20px; text-align: center;"]]
+Now that your site is created, you only need to take care of a couple preliminary items.
+[[/div]]
+[[/div]]
+
++ First
+
+You are presently an admin of the site.  The top bar has an admins only link, but it will only show if you have created an Admin CSS Page.  Thankfully, this process is simple.  Simply click on the button below, press save, and return to this page.  When you are finished, you should see a small cogwheel appear in the top bar.
+
+[[div class="text-center"]]
+[[module ListUsers users="."]]
+[[a class="btn btn-primary" href="/admincss:%%name%%/edit/true/"]]Create Admin CSS Page[[/a]]
+[[/module]]
+[[/div]]
+
++ Second
+
+The **[[[help:_home|User Guide]]]** will tell you everything you need to know about your new site.  We highly recommend that you read through it.  Additionally, if you are using Wikidot for the first time, we encourage you to check out the [[[help:First Time User]]] page as well.
+
++ Third
+
+New members of your site will be redirected to this page upon joining.  You may, therefore, wish to replace all of this text with relevant information for new members.  In that case, feel free to [[button edit text="edit this page"]] and populate it with relevant information.
+
+Alternatively, you may want for members to be redirected to the home page instead.  In this case, edit this page and replace the content with the code below:
+
+[[code]]
+[[module Redirect destination="/"]]
+[[/code]]
+
++ You're Ready!
+
+With all that done, you are ready to start building your site!  Remember that if you ever have questions, the [*http://community.wikidot.com/ Community] is online and ready.
+
+[[div class="alert alert-success" style="font-size: 28px; text-align: center;"]]
+Good luck!
+[[/div]]

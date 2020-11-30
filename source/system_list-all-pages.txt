@@ -1,0 +1,5 @@
+This is a list of every page on your site.
+
+[[module ListPages category="*" separate="false" order="title" perPage="200"]]
+* %%title_linked%%
+[[/module]]

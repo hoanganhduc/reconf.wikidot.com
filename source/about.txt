@@ -1,0 +1,34 @@
+This site contains a [[[/| non-exhaustive list of publications related to "Combinatorial Reconfiguration"]]] and some other related information. Originally, the content of this site is available at [[a href="http://www.jaist.ac.jp/%7Es1520016/combinatorial-reconfiguration"]]www.jaist.ac.jp/~s1520016/combinatorial-reconfiguration[[/a]] (which may have been deleted by the staffs in [[a href="http://www.jaist.ac.jp/iscenter/en/"]]JAIST RCACI[[/a]]). An alternative bibliography maintained by [[a href="http://www.ecei.tohoku.ac.jp/alg/take/"]]Takehiro Ito[[/a]] and [[a href="http://www.ecei.tohoku.ac.jp/alg/suzuki/"]]Akira Suzuki[[/a]] is also [[a href="http://www.ecei.tohoku.ac.jp/alg/coresurvey/"]]available[[/a]].
+
+= **To send a message to the site owner, use this form:**
+
+[[module MailForm title="Contact via Wikidot.com" format="csv"]]
+
+# name 
+ * title: First name, last name
+ * type: text
+ * rules:
+  * required: true
+# organisation
+ * title: Organization/Company
+ * hint: Leave blank if none
+# country
+ * title: Country
+# email
+ * title: Email
+ * type: text
+ * rules:
+  * required: true
+  * match: /^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)+$/
+# comment
+ * type: textarea
+ * title: Your message 
+ * rules:
+  * maxLength: 5000
+# mycaptcha
+ * title: What's 19+125?
+ * type: text
+ * rules:
+  * required: true 
+  * match: /^(144)$/
+[[/module]]

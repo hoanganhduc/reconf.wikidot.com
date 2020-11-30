@@ -1,0 +1,58 @@
+Please customize this page with information about you and/or your site.  To begin, simply click on the Edit button on the bottom of this page.
+
+In the meantime, here is some useful information about the Standard Template.
+
+The Standard Template is a template website designed by the Wikidot Community for users like yourself.  We provide you with basic pages and facilities to help you get started on your new project.  For instance:
+
+* **[*http://getbootstrap.com Twitter Bootstrap] is integrated** into the site's layout and design so that your site will look good regardless of the device viewed upon.
+* **The home page is designed as a cover**, giving you all the code necessary to adapt it to your own needs.
+* **Top and Side navigation bars** are provided and easily customizable
+* **All pages use categories** for stronger organization
+* **A standard [[[main:layout|HTML layout]]]** allows for consistent theme creation and theme compatibility
+* Let others discuss your site on a **[[[forum:start|public forum]]]** provided by the template
+
+Special thanks goes to the following users for their contribution to this template site:
+
+[[table class="user-table"]]
+[[row]][[cell]]
+[[image http://css.wikidot.com/local--files/admin:template-files/wikidot_avatar_128x128.png class="img-circle"]]
+[[/cell]]
+[[cell]]
+++ The Wikidot Team
+
+[[span class="text-muted"]]For providing the platform upon which the site stands[[/span]]
+[[/cell]]
+[[/row]]
+[[row]][[cell]]
+[[image http://www.wikidot.com/avatar.php?userid=197988 class="img-circle"]]
+[[/cell]]
+[[cell]]
+++ Timothy Foster
+
+[[span class="text-muted"]]For developing the HTML layout and CSS theme[[/span]]
+[[/cell]]
+[[/row]]
+[[row]][[cell]]
+[[image http://www.wikidot.com/avatar.php?userid=38854 class="img-circle"]]
+[[/cell]]
+[[cell]]
+++ Ed Johnson
+
+[[span class="text-muted"]]For work concerning the Administrator Link and Bootstrap pioneer site, the [*http://bootstrap-playground.wikidot.com/ Bootstrap Playground][[/span]]
+[[/cell]]
+[[/row]]
+[[row]][[cell]]
+[[image http://d2qhngyckgiutd.cloudfront.net/default_avatar class="img-circle"]]
+[[/cell]]
+[[cell]]
+++ Everyone Else
+
+[[span class="text-muted"]]Special thanks goes to [[user RobElliott]] and [[user Helmut_pdorf]] for their front-line support on the Community site, and to [[user James Kanjo]], [[user leiger]] and [[user tsangk]] for the development of [*http://snippets.wikidot.com snippets] integrated into this site.[[/span]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[module CSS]]
+table.user-table td img{  width: 64px; }
+table.user-table td{  padding: 10px 16px; }
+[[/module]]

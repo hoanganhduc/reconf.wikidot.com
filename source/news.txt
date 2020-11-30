@@ -1,0 +1,53 @@
+[[toc]]
+
++ Announcement of ARDA 2019
+
+ARDA 2019 (Advances in Reoptimization and Dynamic Algorithms) is a satellite workshop of [[a href="http://tcs.rwth-aachen.de/mfcs2019/"]]MFCS 2019[[/a]]. The conference will be held at RWTH Aachen on August 30, 2019. 
+
+> Many practically relevant situations require to solve not only one singular instance of an optimization problem, but a sequence of them. This naturally gives rise to the question of whether the knowledge of a good solution for one instance can be used for facilitating the computation of a good solution for a related instance. Consider, for instance, the maintenance of a train schedule. In case of some local modification, e.g., a station closing down or being newly opened, we do not want to compute a new schedule from scratch, but we want to make use of the old schedule.
+> 
+> Problems like these have been considered from various viewpoints under various names. Analyzing one step of local modification (or sometimes a short sequence of steps) with respect to approximability of a hard optimization problem has been considered under the name of reoptimization. Conversely, dynamic data structures and dynamic algorithms consider an arbitrary sequence of modifications for some (not necessarily hard) problem.
+> 
+> There are many recent approaches bringing substantially new ideas to this field, for example,
+> 
+> * new techniques to design PTASs for reoptimization problems
+> * robust reoptimization, i.e., making use of approximate solutions for neighboring instances, thus enabling the analysis of multi-step reoptimization
+> * constrained reoptimization, i.e., finding new solutions that are similar to the given old solution
+> * reoptimization in the presence of multiple given solutions to one or more related instances
+> * dynamic algorithms computing exact solutions in the framework of parameterized algorithmics
+> 
+> The goal of this workshop is to bring together researchers from various areas related to reoptimization and dynamic algorithms.
+
+For more information, see the conference's website [https://people.inf.ethz.ch/dkomm/arda2019/ https://people.inf.ethz.ch/dkomm/arda2019/].
+
++ Announcement of CoRe 2019
+
+On July 24, 2018, [https://pagesperso.g-scop.grenoble-inp.fr/~bousquen/ Nicolas Bousquet] announced on the [https://lists.uwaterloo.ca/mailman/listinfo/reconf Reconf mailing list] that **The 3rd International Workshop on Combinatorial Reconfiguration (CoRe 2019)** will be held on //May 12-17, 2019// at Aussois, France (in the CNRS residence "Centre Paul Langevin" in Aussois, at the heart of the Alps mountains [https://www.caes.cnrs.fr/sejours/centre-paul-langevin/ https://www.caes.cnrs.fr/sejours/centre-paul-langevin/]). For more information, please contact Nicolas Bousquet ({{nicolas.bousquet at grenoble-inp.fr}}) and Marthe Bonamy ({{marthe.bonamy at gmail.com}}).
+
+**Update (2019-02-01):** The webpage of CoRe 2019 has been available online at [http://oc.inpg.fr/conf/core2019/Main/HomePage http://oc.inpg.fr/conf/core2019/Main/HomePage].
+
+**CoRe** (stands for **Co**mbinatorial **Re**configuration) is a biennial workshop series dedicated to the research area "Combinatorial Reconfiguration".
+
+[[ul]]
+[[li]]
+[http://www.birs.ca/events/2017/5-day-workshops/17w5066 CoRe 2017], January 23-27, 2017, Banff, Alberta, Canada.
+[[/li]][[li]]
+[http://www.ecei.tohoku.ac.jp/alg/core2015/ CoRe 2015], February 18-20, 2015, Sendai, Japan.
+[[/li]]
+[[/ul]]
+
++ A Japanese introduction to Reconfiguration
+
+A paper entitled "組合せ遷移への招待" (Invitation to Combinatorial Reconfiguration) by Takehiro Ito has been published in Vol. 101, No. 3, pp. 288-292 of IEICE Journal Japanese Version. The abstract (in Japanese) and link to the paper are as follows.
+
+[[ul]]
+[[li]]
+**Abstract:** 組合せ遷移とは，パズルや持続的システムといった動的な状況を定式化することに適し，最近10年ほどで急速に研究が発展・深化した研究トピックである．実行可能解が一つでも存在するか判定する従来の問題に比べ，組合せ遷移では実行可能解が形成する解空間での到達可能性が問われる．本稿ではまず，組合せ遷移の枠組みと研究背景を紹介する．次に，最近の研究動向を解説するとともに，組合せ遷移におけるアルゴリズム開発を紹介する．
+
+
+[[/li]][[li]]
+**Link:** [http://app.journal.ieice.org/trial/101_3/k101_3_288/index.html http://app.journal.ieice.org/trial/101_3/k101_3_288/index.html].
+
+
+[[/li]]
+[[/ul]]

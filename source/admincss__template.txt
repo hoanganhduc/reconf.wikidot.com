@@ -1,0 +1,12 @@
+%%content%%
+[[html]]
+<script type="text/javascript">
+history.go(-2);
+</script>
+[[/html]]
+===========
+[!-- Do not edit this page; Press Save! --]
+[[module CSS]]
+.admins-only, li.admins-only{  display: block !important; }
+.admins-only-inline{  display: inline !important; }
+[[/module]]

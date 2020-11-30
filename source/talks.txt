@@ -1,0 +1,178 @@
+[[div class="alert bg-info"]]
+This page contains information about some talks made by researchers regarding their work in Combinatorial Reconfiguration area.
+[[/div]]
+
+[[toc]]
+
++ Reconfiguring sliding squares in-place by flooding, by Joel Moreno, at EuroCG 2020 (2020-03-17)
+
+For more information, see [https://www1.pub.informatik.uni-wuerzburg.de/eurocg2020 EuroCG 2020's website].
+Here we provide the corresponding paper, abstract, and link to the recorded video of the talk.
+
+* **Corresponding Paper:** Joel Moreno and Vera Sacristán. Reconfiguring sliding squares in-place by flooding. [https://www1.pub.informatik.uni-wuerzburg.de/eurocg2020/data/uploads/papers/eurocg20_paper_32.pdf at EuroCG 2020].
+* **Abstract:** We present a new algorithm that reconfigures between any two edge-connected configurations of [[$n$]] sliding squares within their bounding boxes. The algorithm achieves the reconfiguration by means of [[$\Theta(n^2)$]] slide moves. A visual simulator and a set of experiments allows us to compare the performance over different shapes, showing that in many practical cases the number of slide moves grows significantly slower than in others as [[$n$]] increases.
+* **Recorded Video:** [https://youtu.be/OyNLJ1TqLF0 https://youtu.be/OyNLJ1TqLF0].
+
+
++ The Reconfiguration Problem for Graph Homomorphisms, by Mark Siggers, at KAIST Discrete Math Seminar 2018 (2018-04-03)
+For more information, see [http://vod.mathnet.or.kr/sub2_2.php?no=5109 this page].
+Here, we provide the corresponding paper, abstract and link to the recorded video of the talk.
+
+* **Corresponding Paper:** Richard C. Brewster, Jae-Baek Lee, Benjamin Moore, Jonathan A. Noel and Mark Siggers. Graph Homomorphism Reconfiguration and Frozen [[$H$]]-Colourings. (Preprint: [https://arxiv.org/abs/1712.00200 arXiv:1712.00200]).
+* **Abstract:** For problems with a discrete set of solutions, a reconfiguration problem defines solutions to be adjacent if they meet some condition of closeness, and then asks for two given solutions it there is a path between them in the set of all solutions. The reconfiguration problem for graph homomorphisms has seen fair activity in recent years. Fixing a template, the problem [[$Recol(H)$]] for a graph [[$H$]] asks if one can get from one [[$H$]]-colouring of a graph [[$G$]] to another by changing one vertex at a time, always remaining an [[$H$]]-colouring. If the changed vertex has a loop, it must move to an adjecent vertex. Depending on [[$H$]], the problem seems to be either polynomial time solvable or PSPACE-complete. We discuss many recent results in the area and work towards conjecturing for which the problem is PSPACE-complete. _
+    This is joint work with Rick Brewster, Jae-baek Lee, Ben Moore and Jon Noel.
+* **Recorded Video:** [http://mp4.mathnet.or.kr/201804/MarkSiggers(20180403).mp4 http://mp4.mathnet.or.kr/201804/MarkSiggers(20180403).mp4] or [https://youtu.be/WSandwsj0pg https://youtu.be/WSandwsj0pg].
+
++ Reconfiguration of Triangulations of a Planar Point Set, by Anna Lubiw, at PIMS-UManitoba Distinguished Lecture (2018-02-15)
+
+For more information, see [http://www.mathtube.org/lecture/video/reconfiguration-triangulations-planar-point-set this page].
+Here, we provide a copy of the abstract of the talk and the link to the recorded video.
+
+* **Abstract:** In a reconfiguration problem, the goal is to change an initial configuration of some structure to a final configuration using some limited set of moves. Examples include: sorting a list by swapping pairs of adjacent elements; finding the edit distance between two strings; or solving a Rubik’s cube in a minimum number of moves. Central questions are: Is reconfiguration possible? How many moves are required? In this talk I will survey some reconfiguration problems, and then discuss the case of triangulations of a point set in the plane. A move in this case is a flip that replaces one edge by the opposite edge of its surrounding quadrilateral when that quadrilateral is convex. In joint work with Zuzana Masárová and Uli Wagner we characterize when one edge-labelled triangulation can be reconfigured to another via flips. The proof involves combinatorics, geometry, and topology.
+* **About Anna Lubiw:** [https://cs.uwaterloo.ca/~alubiw/Site/Anna_Lubiw.html Anna Lubiw] is a professor in the Cheriton School of Computer Science, University of Waterloo. She has a PhD from the University of Toronto (1986) and a Master of Mathematics degree from the University of Waterloo (1983). Her research is in the areas of Computational Geometry, Graph Drawing and Graph Algorithms. She was named the Ross and Muriel Cheriton Faculty Fellow in 2014, received the University of Waterloo outstanding performance award in 2012 and was named a Distinguished Scientist by the Association for Computing Machinery in 2009. She serves on the editorial boards of the Journal of Computational Geometry and the Journal of Graph Algorithms and Applications.
+* **Download:** The recored video of this talk can be downloaded at [http://www.mathtube.org/sites/default/files/videos/converted/Lubiw-2018_02_15.mp4 http://www.mathtube.org/sites/default/files/videos/converted/Lubiw-2018_02_15.mp4]. 
+
++ Reconfiguration of Common Independent Sets of Matroids, by Moritz Mühlenthaler, at Aussois C.O.W. 2018 (2018-01-11)
+
+The talk was presented by [https://www12.informatik.uni-erlangen.de/people/muehlenthaler/ Moritz Mühlenthaler] at [http://www.iasi.cnr.it/aussois/web/home/program/year/2018 Aussois C.O.W. 2018].
+Here, we provide the abstract and link to the presentation slides.
+
+* **Abstract:** We consider solution graphs of combinatorial problems that arise from certain natural adjacency relations on the solution sets. Such graphs are typically too large to be stored explicitly. After a brief overview of what is known about the complexity of the st-reachability problem on such graphs, our focus will be solution graphs that can be characterized in terms of common independent sets of matroids. We will showcase the following recent dichotomy result: For common independent sets of at most two matroids, the corresponding st-reachability problem can be solved in polynomial time, while for three or more matroids the problem is PSPACE-complete.
+* **Slides:** [http://www.iasi.cnr.it/aussois/web/uploads/2018/slides/muhlenthalerm.pdf http://www.iasi.cnr.it/aussois/web/uploads/2018/slides/muhlenthalerm.pdf].
+
++ Introduction to Reconfiguration, by Naomi Nishimura, at CanaDAM 2017's Mini-symposia on Reconfiguration (2017-06-14)
+
+Here, we provide the abstract and link to the slides of the talk.
+
+[[ul]]
+[[li]]
+**Abstract:** Reconfiguration is concerned with relationships among solutions to a problem instance, where the reconfigration of one solution to another is a sequence of steps such that each step produces an intermediate feasible solution. The solution space can be represented as a graph, where vertices representing two solutions are adjacent if one can be formed from the other in a single step. Work in the area encompasses both structural questions (Is the reconfiguration graph connected?) and algorithmic ones (How can one find the shortest sequence of steps between two solutions?) This talk introduces techniques, results, and future directions in the area.
+
+
+[[/li]][[li]]
+**Slides:** [http://cs.uwaterloo.ca/~nishi/reconfcanadam2017slides.pdf http://cs.uwaterloo.ca/~nishi/reconfcanadam2017slides.pdf].
+
+
+[[/li]]
+[[/ul]]
+
++ Tight Exact and Approximate Algorithmic Results on Token Swapping, by Tillmann Miltzow (2017-02-01)
+
+The information of this talk by [https://sites.google.com/site/tillshome Tillmann Miltzow] comes from [https://sites.google.com/site/tillshome/till-miltzow his publication page].
+As we have no specific information, we put the date of the uploaded video as the date of this talk.
+Here, we provide details of the corresponding paper, and the link to the recorded video.
+
+[[ul]]
+[[li]]
+**Corresponding Paper:** Tillmann Miltzow, Lothar Narins, Yoshio Okamoto, Günter Rote, Antonis Thomas and Takeaki Uno. [https://doi.org/10.4230/LIPIcs.ESA.2016.66 Approximation and Hardness of Token Swapping], Proceedings of ESA 2016, LIPIcs 57, pp. 66:1-66:15. (Preprint: [https://arxiv.org/abs/1602.05150 arXiv:1602.05150]).
+
+
+[[/li]][[li]]
+**Recorded Video:** [https://youtu.be/g52apOjT17Y https://youtu.be/g52apOjT17Y].
+
+
+[[/li]]
+[[/ul]]
+
+
++ Token-sliding Problems, by Jan van den Heuvel, at CoRe 2017 (2017-01-26)
+
+Here, we provide the links to the slides of the talk and the recorded video.
+
+[[ul]]
+[[li]]
+**Slides:** [http://www.birs.ca/workshops/2017/17w5066/files/van_den_Heuvel-talk-BIRS.pdf http://www.birs.ca/workshops/2017/17w5066/files/van_den_Heuvel-talk-BIRS.pdf].
+
+
+[[/li]][[li]]
+**Recorded Video:** [http://videos.birs.ca/2017/17w5066/201701261043-vandenHeuvel.mp4 http://videos.birs.ca/2017/17w5066/201701261043-vandenHeuvel.mp4].
+
+
+[[/li]][[li]]
+**Other Resources:** [http://hdl.handle.net/2429/62434 http://hdl.handle.net/2429/62434].
+
+
+[[/li]]
+[[/ul]]
+
++ Kempe Equivalence in Regular Graphs, by Matthew Johnson, at CoRe 2017 (2017-01-25)
+
+Here, we provide the links to the slides of the talk and the recorded video.
+
+[[ul]]
+[[li]]
+**Slides:** [http://www.birs.ca/workshops/2017/17w5066/files/matthewjohnson.pdf http://www.birs.ca/workshops/2017/17w5066/files/matthewjohnson.pdf].
+
+
+[[/li]][[li]]
+**Recorded Video:** [http://videos.birs.ca/2017/17w5066/201701251108-Johnson.mp4 http://videos.birs.ca/2017/17w5066/201701251108-Johnson.mp4].
+
+
+[[/li]][[li]]
+**Other Resources:** [http://hdl.handle.net/2429/62424 http://hdl.handle.net/2429/62424].
+
+
+[[/li]]
+[[/ul]]
+
++ Token Sliding on Chordal Graphs, by Nicolas Bousquet, at CoRe 2017 (2017-01-24)
+
+Here, we provide details of the corresponding paper, and the link to the recorded video.
+
+[[ul]]
+[[li]]
+**Corresponding Paper:** Marthe Bonamy and Nicolas Bousquet. [https://doi.org/10.1007/978-3-319-68705-6_10 Token Sliding on Chordal Graphs], Proceedings of WG 2017, LNCS 10520, pp. 127-139. (Preprint: [https://arxiv.org/abs/1605.00442 arXiv:1605.00442]).
+
+
+[[/li]][[li]]
+**Abstract:** Let [[$I$]] be an independent set of a graph [[$G$]]. Imagine that a token is located on any vertex of [[$I$]]. We can now move the tokens of [[$I$]] along the edges of the graph as long as the set of tokens still defines an independent set of [[$G$]]. Given two independent sets [[$I$]] and [[$J$]], the Token Sliding problem consists in deciding whether there exists a sequence of independent sets which transforms [[$I$]] into [[$J$]] so that every pair of consecutive independent sets of the sequence can be obtained via a token move. This problem is known to be PSPACE-complete even on planar graphs. Demaine et al. [ISAAC'14] asked whether the Token Sliding reconfiguration problem is polynomial time solvable on interval graphs and more generally in chordal graphs. Yamada and Uehara [WALCOM'16] showed that a polynomial time transformation can be found in proper interval graphs. We answer the first question of Demaine et al. and generalize the result of Yamada and Uehara by showing that we can decide in polynomial time whether two independent sets of an interval graph are in the same connected component. Moreover, we answer similar questions by showing that: (i) determining if there exists a token sliding transformation between every pair of [[$k$]]-independent sets in an interval graph can be decided in polynomial time; (ii) deciding this problem becomes co-NP-hard and even co-W[2]-hard (parameterized by the size of the independent set) on split graphs, a sub-class of chordal graphs.
+
+
+[[/li]][[li]]
+**Slides:** [http://www.birs.ca/workshops/2017/17w5066/files/bousquet.pdf http://www.birs.ca/workshops/2017/17w5066/files/bousquet.pdf].
+
+
+[[/li]][[li]]
+**Recorded Video:** [http://videos.birs.ca/2017/17w5066/201701240907-Bousquet.mp4 http://videos.birs.ca/2017/17w5066/201701240907-Bousquet.mp4].
+
+
+[[/li]][[li]]
+**Other Resources:** [http://hdl.handle.net/2429/62409 http://hdl.handle.net/2429/62409].
+
+
+[[/li]]
+[[/ul]]
+
++ Complexity of Token Swapping and its Variants, by Paweł Rzążewski (2016-09-08)
+
+The information of this talk by [http://www.mini.pw.edu.pl/~rzazewsk/www/ Paweł Rzążewski] comes from [https://sites.google.com/site/tillshome/till-miltzow Tillmann Miltzow's publication page].
+As we have no specific information, we put the date of the uploaded video as the date of this talk.
+Here, we provide details of the corresponding paper, and the link to the recorded video.
+
+[[ul]]
+[[li]]
+**Corresponding Paper:** Édouard Bonnet, Tillmann Miltzow and Paweł Rzążewski. [https://doi.org/10.1007/s00453-017-0387-0 Complexity of Token Swapping and its Variants], Algorithmica, Special Issue dedicated to the 60th Birthday of Gregory Gutin, pp. 1-27, October 2017. (A primary version is available in the [https://doi.org/10.4230/LIPIcs.STACS.2017.16 Proceedings of STACS 2017, LIPIcs 66, pp. 16:1–16:14]. Preprint: [https://arxiv.org/abs/1607.07676 arXiv:1607.07676]).
+[[/li]][[li]]
+**Recorded Video:** [https://youtu.be/dSyuIUWMKWg https://youtu.be/dSyuIUWMKWg].
+[[/li]]
+[[/ul]]
+
++ Invitation to Combinatorial Reconfiguration, by Takehiro Ito, at Mini-symposium on Combinatorial Reconfiguration, SIAM DM'16 (2016-06-07)
+For more information, see [http://www.labri.fr/perso/mbonamy/SIAMDM16.html this page].
+Here, we provide the abstract and link to the slides of the talk.
+
+[[ul]]
+[[li]]
+**Abstract:** Reconfiguration problems arise when we wish to find a step-by-step transformation between two feasible solutions of a combinatorial problem such that all intermediate results are also feasible. They are PSPACE-complete for most underlying NP-complete problems, and in P for several polynomial-time solvable underlying problems, although there are exceptions to both general patterns. In this talk, I will give a broad introduction and invite you to this exciting new area.
+
+
+[[/li]][[li]]
+**About Takehiro Ito:** [http://www.ecei.tohoku.ac.jp/alg/take/ Takehiro Ito] skipped the second semester of the senior grade of an undergraduate course at Tohoku University, Japan, and received the M.S. and Ph.D. degrees from Tohoku University in 2003 and 2006, respectively. He is currently Associate Professor of Graduate School of Information Sciences, Tohoku University. His research interests include combinatorial reconfiguration and graph algorithms.
+
+
+[[/li]][[li]]
+**Slides:** [http://www.labri.fr/perso/mbonamy/takehiro_ito_invitation.pptx http://www.labri.fr/perso/mbonamy/takehiro_ito_invitation.pptx].
+
+
+[[/li]]
+[[/ul]]

@@ -1,0 +1,22 @@
+This page contains information about some journal's special issues dedicated to Combinatorial Reconfiguration.
+
+[[toc]]
+
++ Special Issue "Reconfiguration Problems" (2018, A special issue of Algorithms, ISSN 1999-4893)
+
+For more information, see [http://www.mdpi.com/journal/algorithms/special_issues/Reconfiguration_Problems this page].
+We provide here a list of published papers in this issue.
+
+[[ul]]
+[[li]]
+Faisal Abu-Khzam, Henning Fernau, and Ryuhei Uehara. **Special Issue on Reconfiguration Problems**, Algorithms, 11(11), 187, November 2018. [https://doi.org/10.3390/a11110187 doi:10.3390/a11110187]. [[https://www.mdpi.com/1999-4893/11/11/187/pdf PDF]]
+[[/li]][[li]]
+Asahi Takaoka. **Complexity of Hamiltonian Cycle Reconfiguration**, Algorithms, 11(9), 140, September 2018. [https://doi.org/10.3390/a11090140 doi:10.3390/a11090140]. [[http://www.mdpi.com/1999-4893/11/9/140/pdf PDF]]
+[[/li]][[li]]
+Naomi Nishimura. **Introduction to Reconfiguration**, Algorithms, 11(4), 52, April 2018. [https://doi.org/10.3390/a11040052 doi:10.3390/a11040052]. [[http://www.mdpi.com/1999-4893/11/4/52/pdf PDF]]
+[[/li]][[li]]
+Ruth Haas and Gary MacGillivray. **Connectivity and Hamiltonicity of Canonical Colouring Graphs of Bipartite and Complete Multipartite Graphs**, Algorithms, 11(4), 40, March 2018. [https://doi.org/10.3390/a11040040 doi:10.3390/a11040040]. [[http://www.mdpi.com/1999-4893/11/4/40/pdf PDF]]
+[[/li]][[li]]
+Amer E. Mouawad, Naomi Nishimura, Venkatesh Raman and Sebastian Siebertz. **Vertex Cover Reconfiguration and Beyond**, Algorithms, 11(2), 20, February 2018. [https://doi.org/10.3390/a11020020 doi:10.3390/a11020020]. [[http://www.mdpi.com/1999-4893/11/2/20/pdf PDF]]
+[[/li]]
+[[/ul]]

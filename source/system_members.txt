@@ -1,0 +1,17 @@
+[[div class="row"]]
+[[div class="col-md-7"]]
+++ Members
+
+[[module Members]]
+
+[[/div]]
+[[div class="col-md-5"]]
+++ Moderators
+
+[[module Members group="moderators"]]
+
+++ Admins
+
+[[module Members group="admins"]]
+[[/div]]
+[[/div]]

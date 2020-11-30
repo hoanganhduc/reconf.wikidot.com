@@ -1,0 +1,56 @@
+[[div class="text-center" style="margin-bottom: 12px;"]]
+[[module Clone]]
+[[/div]]
+
+[[button edit text="edit" style="background-image: url(http://community.wikidot.com/local--files/nav:side/accessories-text-editor-32x32.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;"]] [[button source text="source" style="background-image: url(http://www.wikidot.com/local--files/files/view-source.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;"]] [[button print text="print" style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;"]]
+
+[!--
+    Add This
+--]
+[[div class="addthis"]]
+[[embed]]
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_pub="gerdami";</script>
+<a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-addthis-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
+<!-- AddThis Button END -->
+[[/embed]]
+[[/div]]
+
++ Site Navigation
+
+[[ul]]
+[[li]][[a href="/"]]Home[[/a]][[/li]]
+[[li]][[a href="/news"]]News[[/a]][[/li]]
+[[li]][[a href="#"]]Resources[[/a]][[/li]]
+[[ul]]
+[[li]][[a href="/conferences"]]Conferences[[/a]][[/li]]
+[[li]][[a href="/talks"]]Talks[[/a]][[/li]]
+[[li]][[a href="/special-issues"]]Special Issues[[/a]][[/li]]
+[[li]][[a href="http://www.ecei.tohoku.ac.jp/alg/core/"]]CoRe Portal[[/a]][[/li]]
+[[li]][[a href="https://lists.uwaterloo.ca/mailman/listinfo/reconf"]]Mailing List[[/a]][[/li]]
+[[/ul]]
+[[li]][[a href="/about"]]About[[/a]][[/li]]
+[[li]][[a href="/forum:start"]]Discussion Forums[[/a]][[/li]]
+[[li]][[a href="/system:members"]]Members[[/a]][[/li]]
+[[li]][[a href="/system:join"]]Membership[[/a]][[/li]]
+[[li]][[a href="/help:_home"]]User Guide[[/a]][[/li]]
+[[li]][[a href="/help:first-time-user"]]First Time User[[/a]][[/li]]
+[[li]][[a href="/help:quick-reference"]]Quick Reference[[/a]][[/li]]
+[[li]][[a href="/help:creating-pages"]]Creating Pages[[/a]][[/li]]
+[[li]][[a href="/help:editing-pages"]]Editing Pages[[/a]][[/li]]
+[[li]][[a href="/help:navigation-bars"]]Navigation Bars[[/a]][[/li]]
+[[li]][[a href="/help:using-modules"]]Using Modules[[/a]][[/li]]
+[[li]][[a href="/help:templates"]]Templates[[/a]][[/li]]
+[[li]][[a href="/help:css-themes"]]CSS Themes[[/a]][[/li]]
+[[/ul]]
+
++ Create a Page
+[[module NewPage size="20" button="New page"]]
+
++ Watchers
+[[div class="side_watchers"]]
+[[module Watchers]]
+[[/div]]
+
++ Statistics (Powered by ClustrMaps)
+[[=image http://www.clustrmaps.com/map_v2.png?d=uCkhxdtcYYwz9A52-0WKOZ2WtpCgEwy3CPbQ6ppvRu4&cl=ffffff  link="https://clustrmaps.com/site/1asr3"]]
