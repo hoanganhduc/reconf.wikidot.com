@@ -4,6 +4,42 @@ This page contains information about some talks made by researchers regarding th
 
 [[toc]]
 
++ On girth and the parameterized complexity of token sliding and token jumping, by Amer E. Mouawad, at Parameterized Complexity Seminar (2020-12-08)
+
+For more information, see [https://sites.google.com/view/pcseminar/home Parameterized Complexity Seminar homepage].
+Here we provide the corresponding paper, abstract, and link to the slides and video recording of the talk.
+
+* **Corresponding Paper:** Valentin Bartier, Nicolas Bousquet, Clément Dallard, Kyle Lomer, and Amer E. Mouawad. [[a href="https://doi.org/10.4230/LIPIcs.ISAAC.2020.44"]]On girth and the parameterized complexity of token sliding and token jumping[[/a]], Proceedings of ISAAC 2020, LIPIcs 181, pp. 44:1-44:17. (Preprint: [[a href="https://arxiv.org/abs/2007.01673"]]arXiv:2007.01673[[/a]]).
+* **Abstract:** In the token jumping problem we are given a graph [[$G$]] and two independent sets [[$S$]] and [[$T$]] of [[$G$]], each of size [[$k > 0$]]. If we view each independent set as a collection of tokens placed on a subset of the vertices of [[$G$]], then the token jumping problem asks for a sequence of independent sets which transforms [[$S$]] to [[$T$]] by individual token jumps which maintain the independence of the sets. This problem is known to be PSPACE-complete on very restricted graph classes, e.g., planar bounded-degree graphs and graphs of bounded pathwidth. A closely related problem is the token sliding problem, where instead of allowing a token to jump to any vertex of the graph we require that a token slides along an edge of the graph. Token sliding is also known to be PSPACE-complete on the aforementioned graph classes. In this talk, we investigate the parameterized complexity of both problems on several graph classes, focusing on the effect of excluding certain cycles from the input graph. _
+Joint work with Valentin Bartier, Nicolas Bousquet, Clement Dallard, and Kyle Lomer. 
+* **Slides:** [https://drive.google.com/file/d/1zqytWSCZnYkGRpEo3WDAC07CkmvhMEXO https://drive.google.com/file/d/1zqytWSCZnYkGRpEo3WDAC07CkmvhMEXO].
+* **Video Recording:** [https://www.youtube.com/watch?v=dARr3lGKwk8 https://www.youtube.com/watch?v=dARr3lGKwk8].
+
++ Talks at JGA 2020 related to Reconfiguration (2020-11-18)
+
+For more information, see [https://www-sop.inria.fr/coati/events/JGA2020 JGA 2020's website].
+Here we provide the link to the slides of the talks.
+
+* **On girth and the parameterized complexity of token sliding and token jumping**, by Valentin Bartier. [[[a href="https://www-sop.inria.fr/coati/events/JGA2020/presentation/mercredi-aprem/62-Bartier.Valentin.pdf"]]slide[[/a]]].
+* **Linear transformations between dominating sets in the TAR-model**, by Alice Joffard. [[[a href="https://www-sop.inria.fr/coati/events/JGA2020/presentation/mercredi-aprem/63-JOFFARD.Alice.pdf"]]slide[[/a]]].
+
++ Independent Set Reconfiguration via Token Sliding, by Nicolas Bousquet, at Bordeaux graph theory seminar (2020-10-02)
+
+For more information, see [https://webconf.u-bordeaux.fr/b/mar-ef4-zed this page].
+Here we provide the link to the recorded video of the talk.
+
+* **Recorded Video:** [https://visio.u-bordeaux.fr/playback/presentation/2.0/playback.html?meetingId=2300964ed37832030257d03332f1e49dfb29c699-1601639350957 https://visio.u-bordeaux.fr/playback/presentation/2.0/playback.html?meetingId=2300964ed37832030257d03332f1e49dfb29c699-1601639350957].
+
++ Reconfiguration of Spanning Trees with Many or Few Leaves, by Nicolas Bousquet, at ESA 2020 (2020-08-29)
+
+For more information, see [http://algo2020.di.unipi.it/ESA2020/ ESA 2020's website].
+Here we provide the corresponding paper, abstract, and links to the slides and recorded video of the talk.
+
+* **Corresponding Paper:** Nicolas Bousquet, Takehiro Ito, Yusuke Kobayashi, Haruka Mizuta, Paul Ouvrard, Akira Suzuki, and Kunihiro Wasa. [[a href="https://doi.org/10.4230/LIPIcs.ESA.2020.24"]]Reconfiguration of Spanning Trees with Many or Few Leaves[[/a]], Proceedings of ESA 2020, LIPIcs 173, pp. 24:1-24:15. (Preprint: [[a href="https://arxiv.org/abs/2006.14309"]]arXiv:2006.14309[[/a]]).
+* **Abstract:** Let [[$G$]] be a graph and [[$T_1, T_2$]] be two spanning trees of [[$G$]]. We say that [[$T_1$]] can be transformed into [[$T_2$]] via an edge flip if there exist two edges [[$e \in T_1$]] and [[$f$]] in [[$T_2$]] such that [[$T_2 = (T_1 \setminus e) \cup f$]]. Since spanning trees form a matroid, one can indeed transform a spanning tree into any other via a sequence of edge flips, as observed in [Takehiro Ito et al., 2011]. We investigate the problem of determining, given two spanning trees [[$T_1, T_2$]] with an additional property [[$\Pi$]], if there exists an edge flip transformation from [[$T_1$]] to [[$T_2$]] keeping property [[$\Pi$]] all along. First we show that determining if there exists a transformation from [[$T_1$]] to [[$T_2$]] such that all the trees of the sequence have at most [[$k$]] (for any fixed [[$k \geq 3$]]) leaves is PSPACE-complete. We then prove that determining if there exists a transformation from [[$T_1$]] to [[$T_2$]] such that all the trees of the sequence have at least [[$k$]] leaves (where [[$k$]] is part of the input) is PSPACE-complete even restricted to split, bipartite or planar graphs. We complete this result by showing that the problem becomes polynomial for cographs, interval graphs and when [[$k = n-2$]].
+* **Slides:** [https://drive.google.com/file/d/1rLrEaBQ1gw8RxG6QWhiQEdUkcP3WEuxY https://drive.google.com/file/d/1rLrEaBQ1gw8RxG6QWhiQEdUkcP3WEuxY].
+* **Video Recording:** [https://youtu.be/SMFCEREV3m8 https://youtu.be/SMFCEREV3m8].
+
 + Reconfiguring sliding squares in-place by flooding, by Joel Moreno, at EuroCG 2020 (2020-03-17)
 
 For more information, see [https://www1.pub.informatik.uni-wuerzburg.de/eurocg2020 EuroCG 2020's website].
@@ -21,6 +57,14 @@ Here, we provide the corresponding paper, abstract and link to the recorded vide
 * **Abstract:** In Graph Theory, a reconfiguration problem is as following: given two solutions of a problem and a transition definition, is there a path of acceptable solutions from the first to the second using a transition one after another? What is the length of the shortest reconfiguration path? What complexities are involved? For example, a recoloration problem asks if we can go from a coloration to another, by changing the color of a node at each transition (with the coloring still valid in the intermediate steps). In this talk, the goal would be to consider distributed version of two reconfiguration problems: recoloring, and reconfiguring independent sets. To parallelise the process, we will accept to change the state of different nodes at once, under certain hypothesis (for example, we will recolor an independent set of nodes). The questions will be, using the LOCAL model, how much communication is needed (i.e. how much a node needs knowledge of its neighborhood) in order to produce a reconfiguration schedule of a given length. For the distributed recoloring (DISC 2019), we prove that the addition of colors for the intermediate steps is needed for some cases in order to have a solution. I will provide the analysis of trees, where we want to go from a 3-coloring to another with the use of a 4th color. II will show that a constant schedule can be found after [[$O(D+\log^* n)$]] communications. For the reconfiguration of independent sets (ICALP 2019 Best Paper), we will present different transitions from the centralized settings, to then justify the one we use. We prove that a constant schedule can be found after [[$O(D+\log^* n)$]] communications, and a linear schedule can be found after a constant number of communications. _
 Those works are the result of collaborations with Marthe Bonamy, Keren Censor-Hillel, Paul Ouvrard, Jara Uitto and Jukka Suomela.
 * **Recorded Video:** [https://youtu.be/RCb2f7Ie6TA https://youtu.be/RCb2f7Ie6TA].
+
++ Talks at JGA 2018 related to Reconfiguration (2018-11-16)
+
+For more information, see [https://oc.g-scop.grenoble-inp.fr/conf/jga2018 JGA 2018's website].
+Here we provide the link to the slides of the talks.
+
+* **Combinatorial Reconfiguration**, by Marthe Bonamy. [[[a href="https://oc.g-scop.grenoble-inp.fr/conf/slides/bonamy.pdf"]]slide[[/a]]].
+* **Optimisation décrémentale de la reconfiguration de dominants**, by Alexandre Blanché. [[[a href="https://oc.g-scop.grenoble-inp.fr/conf/slides/blanche.pdf"]]slide[[/a]]].
 
 + The Reconfiguration Problem for Graph Homomorphisms, by Mark Siggers, at KAIST Discrete Math Seminar 2018 (2018-04-03)
 --For more information, see [http://vod.mathnet.or.kr/sub2_2.php?no=5109 this page].--
