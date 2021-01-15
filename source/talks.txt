@@ -18,7 +18,7 @@ Joint work with Valentin Bartier, Nicolas Bousquet, Clement Dallard, and Kyle Lo
 + Talks at JGA 2020 related to Reconfiguration (2020-11-18)
 
 For more information, see [https://www-sop.inria.fr/coati/events/JGA2020 JGA 2020's website].
-Here we provide the links to the slides and video recording (if exists) of the talks.
+Here we provide links to the slides and video recording (if exists) of the talks.
 
 * **On girth and the parameterized complexity of token sliding and token jumping**, by Valentin Bartier. [[[a href="https://www-sop.inria.fr/coati/events/JGA2020/presentation/mercredi-aprem/62-Bartier.Valentin.pdf"]]slide[[/a]]]
 * **Linear transformations between dominating sets in the TAR-model**, by Alice Joffard. [[[a href="https://www-sop.inria.fr/coati/events/JGA2020/presentation/mercredi-aprem/63-JOFFARD.Alice.pdf"]]slide[[/a]]] [[[a href="https://www.dailymotion.com/video/x7xji1t"]]video[[/a]] (password: petersen)] 
@@ -60,6 +60,17 @@ Taylor showed that there always exists a sequence of flips that transforms [[$G$
 * **Slides:** [https://perso.liris.cnrs.fr/ajoffard/SBR.pdf https://perso.liris.cnrs.fr/ajoffard/SBR.pdf].
 * **Recorded Video:** [https://tinyurl.com/y2e79tta https://tinyurl.com/y2e79tta]. (Password: petersen).
 
++ Talks at JGA 2019 related to Reconfiguration (2019-11)
+
+For more information, see [http://di.ulb.ac.be/algo/jga2019/ JGA 2019's website].
+Here we provide links to the slides of the talks.
+
+* **Graph Recoloring - From statistical physics to graph theory**, by Nicolas Bousquet. [[[a href="http://di.ulb.ac.be/algo/jga2019/bousquet.pdf"]]slide[[/a]]]
+* **Approximating Shortest Connected Graph Transformation for Trees**, by Alice Joffard. [[[a href="http://di.ulb.ac.be/algo/jga2019/joffard.pdf"]]slide[[/a]]]
+* **The Perfect Matching Reconfiguration Problem**, by Marc Heinrich. [[[a href="http://di.ulb.ac.be/algo/jga2019/heinrich.pdf"]]slide[[/a]]]
+* **Linear transformations between colorings in chordal graphs**, by Valentin Bartier. [[[a href="http://di.ulb.ac.be/algo/jga2019/bartier.pdf"]]slide[[/a]]]
+* **Recoloration distribuée dans les arbres**, by Paul Ouvrard. [[[a href="http://di.ulb.ac.be/algo/jga2019/ouvrard.pdf"]]slide[[/a]]]
+
 + Distributed Reconfiguration of Graph Problems, by Mikael Rabie, at Seminat in Laboratory of Information, Networking and Communication Sciences, Paris, France (2019-09-25)
 For more information, see [https://www.lincs.fr/events/distributed-reconfiguration-of-graph-problems/ this page].
 Here, we provide the corresponding paper, abstract and link to the recorded video of the talk.
@@ -72,7 +83,7 @@ Those works are the result of collaborations with Marthe Bonamy, Keren Censor-Hi
 + Talks at JGA 2018 related to Reconfiguration (2018-11-16)
 
 For more information, see [https://oc.g-scop.grenoble-inp.fr/conf/jga2018 JGA 2018's website].
-Here we provide the link to the slides of the talks.
+Here we provide links to the slides of the talks.
 
 * **Combinatorial Reconfiguration**, by Marthe Bonamy. [[[a href="https://oc.g-scop.grenoble-inp.fr/conf/slides/bonamy.pdf"]]slide[[/a]]]
 * **Optimisation décrémentale de la reconfiguration de dominants**, by Alexandre Blanché. [[[a href="https://oc.g-scop.grenoble-inp.fr/conf/slides/blanche.pdf"]]slide[[/a]]]
