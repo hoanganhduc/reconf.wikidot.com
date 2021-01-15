@@ -1,5 +1,5 @@
 [[table style="align:left;"]] [[row]] [[cell]]
-|| Posted by %%created_by_linked%% on %%date|%e %b %Y (%Z)|agohover%%, last edited by %%updated_by_linked%% on %%updated_at|%e %b %Y (%Z) |agohover%% ||
+|| Created by %%created_by_linked%% on %%date|%e %b %Y (%Z)|agohover%%, last edited by %%updated_by_linked%% on %%updated_at|%e %b %Y (%Z) |agohover%% ||
 [[/cell]][[/row]][[/table]]
 
 %%content%%
