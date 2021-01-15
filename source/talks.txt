@@ -13,15 +13,15 @@ Here we provide the corresponding paper, abstract, and link to the slides and vi
 * **Abstract:** In the token jumping problem we are given a graph [[$G$]] and two independent sets [[$S$]] and [[$T$]] of [[$G$]], each of size [[$k > 0$]]. If we view each independent set as a collection of tokens placed on a subset of the vertices of [[$G$]], then the token jumping problem asks for a sequence of independent sets which transforms [[$S$]] to [[$T$]] by individual token jumps which maintain the independence of the sets. This problem is known to be PSPACE-complete on very restricted graph classes, e.g., planar bounded-degree graphs and graphs of bounded pathwidth. A closely related problem is the token sliding problem, where instead of allowing a token to jump to any vertex of the graph we require that a token slides along an edge of the graph. Token sliding is also known to be PSPACE-complete on the aforementioned graph classes. In this talk, we investigate the parameterized complexity of both problems on several graph classes, focusing on the effect of excluding certain cycles from the input graph. _
 Joint work with Valentin Bartier, Nicolas Bousquet, Clement Dallard, and Kyle Lomer. 
 * **Slides:** [https://drive.google.com/file/d/1zqytWSCZnYkGRpEo3WDAC07CkmvhMEXO https://drive.google.com/file/d/1zqytWSCZnYkGRpEo3WDAC07CkmvhMEXO].
-* **Video Recording:** [https://www.youtube.com/watch?v=dARr3lGKwk8 https://www.youtube.com/watch?v=dARr3lGKwk8].
+* **Recorded Video:** [https://www.youtube.com/watch?v=dARr3lGKwk8 https://www.youtube.com/watch?v=dARr3lGKwk8].
 
 + Talks at JGA 2020 related to Reconfiguration (2020-11-18)
 
 For more information, see [https://www-sop.inria.fr/coati/events/JGA2020 JGA 2020's website].
-Here we provide the link to the slides of the talks.
+Here we provide the links to the slides and video recording (if exists) of the talks.
 
-* **On girth and the parameterized complexity of token sliding and token jumping**, by Valentin Bartier. [[[a href="https://www-sop.inria.fr/coati/events/JGA2020/presentation/mercredi-aprem/62-Bartier.Valentin.pdf"]]slide[[/a]]].
-* **Linear transformations between dominating sets in the TAR-model**, by Alice Joffard. [[[a href="https://www-sop.inria.fr/coati/events/JGA2020/presentation/mercredi-aprem/63-JOFFARD.Alice.pdf"]]slide[[/a]]].
+* **On girth and the parameterized complexity of token sliding and token jumping**, by Valentin Bartier. [[[a href="https://www-sop.inria.fr/coati/events/JGA2020/presentation/mercredi-aprem/62-Bartier.Valentin.pdf"]]slide[[/a]]]
+* **Linear transformations between dominating sets in the TAR-model**, by Alice Joffard. [[[a href="https://www-sop.inria.fr/coati/events/JGA2020/presentation/mercredi-aprem/63-JOFFARD.Alice.pdf"]]slide[[/a]]] [[[a href="https://www.dailymotion.com/video/x7xji1t"]]video[[/a]] (password: petersen)] 
 
 + Independent Set Reconfiguration via Token Sliding, by Nicolas Bousquet, at Bordeaux graph theory seminar (2020-10-02)
 
@@ -38,7 +38,7 @@ Here we provide the corresponding paper, abstract, and links to the slides and r
 * **Corresponding Paper:** Nicolas Bousquet, Takehiro Ito, Yusuke Kobayashi, Haruka Mizuta, Paul Ouvrard, Akira Suzuki, and Kunihiro Wasa. [[a href="https://doi.org/10.4230/LIPIcs.ESA.2020.24"]]Reconfiguration of Spanning Trees with Many or Few Leaves[[/a]], Proceedings of ESA 2020, LIPIcs 173, pp. 24:1-24:15. (Preprint: [[a href="https://arxiv.org/abs/2006.14309"]]arXiv:2006.14309[[/a]]).
 * **Abstract:** Let [[$G$]] be a graph and [[$T_1, T_2$]] be two spanning trees of [[$G$]]. We say that [[$T_1$]] can be transformed into [[$T_2$]] via an edge flip if there exist two edges [[$e \in T_1$]] and [[$f$]] in [[$T_2$]] such that [[$T_2 = (T_1 \setminus e) \cup f$]]. Since spanning trees form a matroid, one can indeed transform a spanning tree into any other via a sequence of edge flips, as observed in [Takehiro Ito et al., 2011]. We investigate the problem of determining, given two spanning trees [[$T_1, T_2$]] with an additional property [[$\Pi$]], if there exists an edge flip transformation from [[$T_1$]] to [[$T_2$]] keeping property [[$\Pi$]] all along. First we show that determining if there exists a transformation from [[$T_1$]] to [[$T_2$]] such that all the trees of the sequence have at most [[$k$]] (for any fixed [[$k \geq 3$]]) leaves is PSPACE-complete. We then prove that determining if there exists a transformation from [[$T_1$]] to [[$T_2$]] such that all the trees of the sequence have at least [[$k$]] leaves (where [[$k$]] is part of the input) is PSPACE-complete even restricted to split, bipartite or planar graphs. We complete this result by showing that the problem becomes polynomial for cographs, interval graphs and when [[$k = n-2$]].
 * **Slides:** [https://drive.google.com/file/d/1rLrEaBQ1gw8RxG6QWhiQEdUkcP3WEuxY https://drive.google.com/file/d/1rLrEaBQ1gw8RxG6QWhiQEdUkcP3WEuxY].
-* **Video Recording:** [https://youtu.be/SMFCEREV3m8 https://youtu.be/SMFCEREV3m8].
+* **Recorded Video:** [https://youtu.be/SMFCEREV3m8 https://youtu.be/SMFCEREV3m8].
 
 + Reconfiguring sliding squares in-place by flooding, by Joel Moreno, at EuroCG 2020 (2020-03-17)
 
@@ -48,6 +48,17 @@ Here we provide the corresponding paper, abstract, and link to the recorded vide
 * **Corresponding Paper:** Joel Moreno and Vera Sacristán. Reconfiguring sliding squares in-place by flooding. [https://www1.pub.informatik.uni-wuerzburg.de/eurocg2020/data/uploads/papers/eurocg20_paper_32.pdf at EuroCG 2020].
 * **Abstract:** We present a new algorithm that reconfigures between any two edge-connected configurations of [[$n$]] sliding squares within their bounding boxes. The algorithm achieves the reconfiguration by means of [[$\Theta(n^2)$]] slide moves. A visual simulator and a set of experiments allows us to compare the performance over different shapes, showing that in many practical cases the number of slide moves grows significantly slower than in others as [[$n$]] increases.
 * **Recorded Video:** [https://youtu.be/OyNLJ1TqLF0 https://youtu.be/OyNLJ1TqLF0].
+
++ Approximating Shortest Connected Graph Transformation for Trees, by Alice Joffard, at SOFSEM 2020 (2020-01-21)
+
+For more information, see [https://cyprusconferences.org/sofsem2020/ SOFSEM 2020's website].
+Here, we provide the corresponding paper, abstract, and links to the slides and recorded video of the talk.
+
+* **Corresponding Paper:** Nicolas Bousquet and Alice Joffard. [[a href="https://doi.org/10.1007/978-3-030-38919-2_7"]]Approximating Shortest Connected Graph Transformation for Trees[[/a]], Proceedings of SOFSEM 2020, LNCS 12011, pp. 76-87. (Preprint: [[a href="https://hal.archives-ouvertes.fr/hal-02358489/"]]hal-02358489[[/a]]).
+* **Abstract:** Let [[$G$]], [[$H$]] be two connected graphs with the same degree sequence. The aim of this paper is to find a transformation from [[$G$]] to [[$H$]] via a sequence of flips maintaining connectivity. A flip of [[$G$]] is an operation consisting in replacing two existing edges [[$uv$]], [[$xy$]] of [[$G$]] by [[$ux$]] and [[$vy$]]. _
+Taylor showed that there always exists a sequence of flips that transforms [[$G$]] into [[$H$]] maintaining connectivity. Bousquet and Mary proved that there exists a [[$4$]]-approximation algorithm of a shortest transformation. In this paper, we show that there exists a [[$2.5$]]-approximation algorithm running in polynomial time. We also discuss the tightness of the lower bound and show that, in order to drastically improve the approximation ratio, we need to improve the best known lower bounds.
+* **Slides:** [https://perso.liris.cnrs.fr/ajoffard/SBR.pdf https://perso.liris.cnrs.fr/ajoffard/SBR.pdf].
+* **Recorded Video:** [https://tinyurl.com/y2e79tta https://tinyurl.com/y2e79tta]. (Password: petersen).
 
 + Distributed Reconfiguration of Graph Problems, by Mikael Rabie, at Seminat in Laboratory of Information, Networking and Communication Sciences, Paris, France (2019-09-25)
 For more information, see [https://www.lincs.fr/events/distributed-reconfiguration-of-graph-problems/ this page].
@@ -63,8 +74,8 @@ Those works are the result of collaborations with Marthe Bonamy, Keren Censor-Hi
 For more information, see [https://oc.g-scop.grenoble-inp.fr/conf/jga2018 JGA 2018's website].
 Here we provide the link to the slides of the talks.
 
-* **Combinatorial Reconfiguration**, by Marthe Bonamy. [[[a href="https://oc.g-scop.grenoble-inp.fr/conf/slides/bonamy.pdf"]]slide[[/a]]].
-* **Optimisation décrémentale de la reconfiguration de dominants**, by Alexandre Blanché. [[[a href="https://oc.g-scop.grenoble-inp.fr/conf/slides/blanche.pdf"]]slide[[/a]]].
+* **Combinatorial Reconfiguration**, by Marthe Bonamy. [[[a href="https://oc.g-scop.grenoble-inp.fr/conf/slides/bonamy.pdf"]]slide[[/a]]]
+* **Optimisation décrémentale de la reconfiguration de dominants**, by Alexandre Blanché. [[[a href="https://oc.g-scop.grenoble-inp.fr/conf/slides/blanche.pdf"]]slide[[/a]]]
 
 + The Reconfiguration Problem for Graph Homomorphisms, by Mark Siggers, at KAIST Discrete Math Seminar 2018 (2018-04-03)
 --For more information, see [http://vod.mathnet.or.kr/sub2_2.php?no=5109 this page].--
