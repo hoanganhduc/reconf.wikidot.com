@@ -20,7 +20,27 @@ Extra Materials
 
 [[ul]]
 [[li]]
+Oswin Aichholzer, Erik D. Demaine, Matias Korman, Jayson Lynch, Anna Lubiw, Zuzana Mas, Mikhail Rudoy, Virginia Vassilevska Williams, and Nicole Wein. Hardness of Token Swapping on Trees. (Preprint: [[a href="https://arxiv.org/abs/2103.06707"]]arXiv:2103.06707[[/a]]).
+[[/li]][[li]]
+Nicolas Bousquet and Alice Joffard. TS-Reconfiguration of Dominating Sets in circle and circular-arc graphs. (Preprint: [[a href="https://arxiv.org/abs/2102.10568"]]arXiv:2102.10568[[/a]]).
+[[/li]][[li]]
+Daniel W. Cranston and Reem Mahmoud. In Most [[$6$]]-regular Toroidal Graphs All [[$5$]]-colorings are Kempe Equivalent. (Preprint: [[a href="https://arxiv.org/abs/2102.07948"]]arXiv:2102.07948[[/a]]).
+[[/li]][[li]]
+Carl Feghali. Kempe equivalence of [[$4$]]-critical planar graphs. (Preprint: [[a href="https://arxiv.org/abs/2101.04065"]]arXiv:2101.04065[[/a]]).
+[[/li]]
+[[/ul]]
+
+[[ul]]
+[[li]]
+Zdeněk Dvořák and Carl Feghali. [[a href="https://doi.org/10.1016/j.ejc.2021.103319"]]A Thomassen-type method for planar graph recoloring[[/a]], European Journal of Combinatorics, 95 (2021), article 103319, June 2021. (Preprint: [[a href="https://arxiv.org/abs/2006.09269"]]arXiv:2006.09269[[/a]]).
+[[/li]][[li]]
+Takeshi Yamada and Ryuhei Uehara. [[a href="https://doi.org/10.1016/j.tcs.2021.02.019"]]Shortest reconfiguration of sliding tokens on subclasses of interval graphs[[/a]], Theoretical Computer Science, 863 (2021), pp. 53-68, April 2021. (A primary version is available in the [[a href="https://doi.org/10.1007/978-3-319-30139-6_19"]]Proceedings of WALCOM 2016, LNCS 9627, pp. 236-248[[/a]]. Preprint: [[a href="https://arxiv.org/abs/1511.00243"]]arXiv:1511.00243[[/a]]).
+[[/li]][[li]]
+Katsuhisa Yamanaka, Takashi Horiyama, and Kunihiro Wasa. [[a href="https://doi.org/10.1016/j.tcs.2021.01.009"]]Optimal reconfiguration of optimal ladder lotteries[[/a]], Theoretical Computer Science, 859 (2021), pp. 57-69, March 2021.
+[[/li]][[li]]
 Carl Feghali. [[a href="https://doi.org/10.1016/j.jctb.2020.11.001"]]Reconfiguring colourings of graphs with bounded maximum average degree[[/a]], Journal of Combinatorial Theory, Series B, 147 (2021), pp. 133-138, March 2021. (Preprint: [[a href="https://arxiv.org/abs/1904.12698"]]arXiv:1904.12698[[/a]]).
+[[/li]][[li]]
+Kei Kimura and Akira Suzuki. [[a href="https://doi.org/10.1016/j.tcs.2020.12.025"]]Trichotomy for the reconfiguration problem of integer linear systems[[/a]], Theoretical Computer Science, 856 (2021), pp. 88-109, February 2021. (A primary version is available in the [[a href="https://doi.org/10.1007/978-3-030-39881-1_29"]]Proceedings of WALCOM 2020, LNCS 12049, pp. 336-341[[/a]]. Preprint: [[a href="https://arxiv.org/abs/1911.02786"]]arXiv:1911.02786[[/a]]).
 [[/li]]
 [[/ul]]
 
@@ -28,7 +48,9 @@ Carl Feghali. [[a href="https://doi.org/10.1016/j.jctb.2020.11.001"]]Reconfiguri
 [[li]]
 Hugo A. Akitaya, Matias Korman, Oliver Korten, Diane L. Souvaine, and Csaba D. Tóth. Reconfiguration of Connected Graph Partitions via Recombination, Proceedings of CIAC 2021. (Preprint: [[a href="https://arxiv.org/abs/2011.07378"]]arXiv:2011.07378[[/a]]).
 [[/li]][[li]]
-Kwon Kham Sai, Ryuhei Uehara, and Giovanni Viglietta. Cyclic Shift Problems on Graphs, Proceedings of WALCOM 2021. (Preprint: [[a href="https://arxiv.org/abs/2009.10981"]]arXiv:2009.10981[[/a]]).
+Kwon Kham Sai, Ryuhei Uehara, and Giovanni Viglietta. [[a href="https://doi.org/10.1007/978-3-030-68211-8_25"]]Cyclic Shift Problems on Graphs[[/a]], Proceedings of WALCOM 2021, LNCS 12635, pp. 308-320. (Preprint: [[a href="https://arxiv.org/abs/2009.10981"]]arXiv:2009.10981[[/a]]).
+[[/li]][[li]]
+Noam Solomon and Shay Solomon. [[a href="https://doi.org/10.4230/LIPIcs.ITCS.2021.57"]]A Generalized Matching Reconfiguration Problem[[/a]], Proceedings of ITCS 2021, LIPIcs 185, pp. 57:1-57:20. (Preprint: [[a href="https://arxiv.org/abs/1803.05825"]]arXiv:1803.05825[[/a]]).
 [[/li]][[li]]
 David Eppstein, Daniel Frishberg, and William Maxwell. [[a href="https://doi.org/10.4230/LIPIcs.FUN.2021.13"]]On the treewidth of Hanoi graphs[[/a]], Proceedings of FUN 2021, LIPIcs 157, pp. 13:1-13:21. (Preprint: [[a href="https://arxiv.org/abs/2005.00179"]]arXiv:2005.00179[[/a]]).
 [[/li]]
@@ -44,7 +66,7 @@ Barnaby Martin, Daniël Paulusma, and Siani Smith. Hard Problems That Quickly Be
 [[/li]][[li]]
 Valentin Bartier, Nicolas Bousquet, and Marc Heinrich. Recoloring graphs of treewidth [[$2$]]. (Preprint: [[a href="https://arxiv.org/abs/2012.11459"]]arXiv:2012.11459[[/a]]).
 [[/li]][[li]]
-Tatsuhiko Hatanaka, Felix Hommelsheim, Takehiro Ito, Yusuke Kobayashi, Moritz Mühlenthaler, and Akira Suzuki. Fixed-Parameter Algorithms for Graph Constraint Logic. (Preprint: [[a href="https://arxiv.org/abs/2011.10385"]]arXiv:2011.10385[[/a]]).
+Christopher M. van Bommel. A Bipartite Graph That Is Not the [[$\gamma$]]-Graph of a Bipartite Graph. (Preprint: [[a href="https://arxiv.org/abs/2011.01763"]]arXiv:2011.01763[[/a]]).
 [[/li]][[li]]
 Colin Defant and Noah Kravitz. Friends and Strangers Walking on Graphs. (Preprint: [[a href="https://arxiv.org/abs/2009.05040"]]arXiv:2009.05040[[/a]]).
 [[/li]][[li]]
@@ -52,21 +74,19 @@ Richard C. Brewster and Benjamin Moore. Characterizing Circular Colouring Mixing
 [[/li]][[li]]
 Jesse Geneson, Ruth Haas, and Leslie Hogben. Reconfiguration graphs of zero forcing sets. (Preprint: [[a href="https://arxiv.org/abs/2009.00220"]]arXiv:2009.00220[[/a]]).
 [[/li]][[li]]
-Zdeněk Dvořák and Carl Feghali. A Thomassen-type method for planar graph recoloring. (Preprint: [[a href="https://arxiv.org/abs/2006.09269"]]arXiv:2006.09269[[/a]]).
-[[/li]][[li]]
 Dieter Rautenbach and Johannes Redl. Reconfiguring dominating sets in minor-closed graph classes. (Preprint: [[a href="https://arxiv.org/abs/2005.13844"]]arXiv:2005.13844[[/a]]).
 [[/li]][[li]]
 Guilherme C. M. Gomes, Sérgio H. Nogueira, and Vinicius F. dos Santos. Some results on Vertex Separator Reconfiguration. (Preprint: [[a href="https://arxiv.org/abs/2004.10873"]]arXiv:2004.10873[[/a]]).
 [[/li]][[li]]
 Therese Biedl, Anna Lubiw and Owen Merkel. Building a larger class of graphs for efficient reconfiguration of vertex colouring. (Preprint: [[a href="https://arxiv.org/abs/2003.01818"]]arXiv:2003.01818[[/a]]).
-[[/li]][[li]]
-Zdeněk Dvořák and Carl Feghali. An update on reconfiguring [[$10$]]-colorings of planar graphs. (Preprint: [[a href="https://arxiv.org/abs/2002.05383"]]arXiv:2002.05383[[/a]]).
 [[/li]]
 [[/ul]]
 
 [[ul]]
 [[li]]
-Pieter Kleer, Viresh Patel, and Fabian Stroh. [[a href="https://doi.org/10.37236/9503"]]Switch-Based Markov Chains for Sampling Hamiltonian Cycles in Dense Graphs[[/a]], The Electronic Journal of Combinatorics, 27:4 (2020), P4.29, November 2020. (Preprint: [[a href="http://arxiv.org/abs/2011.09726"]]arXiv:2011.09726[[/a]]).
+Zdeněk Dvořák and Carl Feghali. [[a href="https://doi.org/10.37236/9391"]]An update on reconfiguring [[$10$]]-colorings of planar graphs[[/a]], The Electronic Journal of Combinatorics, 27:4 (2020), article P4.51, December 2020. (Preprint: [[a href="https://arxiv.org/abs/2002.05383"]]arXiv:2002.05383[[/a]]).
+[[/li]][[li]]
+Pieter Kleer, Viresh Patel, and Fabian Stroh. [[a href="https://doi.org/10.37236/9503"]]Switch-Based Markov Chains for Sampling Hamiltonian Cycles in Dense Graphs[[/a]], The Electronic Journal of Combinatorics, 27:4 (2020), article P4.29, November 2020. (Preprint: [[a href="http://arxiv.org/abs/2011.09726"]]arXiv:2011.09726[[/a]]).
 [[/li]][[li]]
 Marthe Bonamy, Marc Heinrich, Takehiro Ito, Yusuke Kobayashi, Haruka Mizuta, Moritz Muehlenthaler, Akira Suzuki and Kunihiro Wasa. [[a href="https://doi.org/10.1016/j.tcs.2020.05.033"]]Diameter of Colorings Under Kempe Changes[[/a]], Theoretical Computer Science, 838 (2020), pp. 45-57, October 2020. (A primary version is available in the [[a href="https://doi.org/10.1007/978-3-030-26176-4_5"]]Proceedings of COCOON 2019, LNCS 11653, pp. 52-64[[/a]]).
 [[/li]][[li]]
@@ -75,6 +95,8 @@ Keren Censor-Hillel and Mikaël Rabie. [[a href="https://doi.org/10.1016/j.jcss.
 Takehiro Ito, Marcin Kamiński, Hirotaka Ono, Akira Suzuki, Ryuhei Uehara and Katsuhisa Yamanaka. [[a href="https://doi.org/10.1016/j.dam.2020.01.022"]]Parameterized complexity of independent set reconfiguration problems[[/a]], Discrete Applied Mathematics, 283 (2020), pp. 336-345, September 2020. (A primary version is available in the [[a href="https://doi.org/10.1007/978-3-319-06089-7_24"]]Proceedings of TAMC 2014, LNCS 8402, pp. 341-351[[/a]]. Preprint: [[a href="http://rutcor.rutgers.edu/~mkaminski/preprints/On%20the%20parameterized%20complexity%20for%20token%20jumping%20on%20graphs.pdf"]]PDF[[/a]]).
 [[/li]][[li]]
 Eduard Eiben and Carl Feghali. [[a href="https://doi.org/10.1002/jgt.22518"]]Towards Cereceda's conjecture for planar graphs[[/a]], Journal of Graph Theory, 94:2 (2020), pp. 267-277, June 2020. (Preprint: [[a href="https://arxiv.org/abs/1810.00731"]]arXiv:1810.00731[[/a]]).
+[[/li]][[li]]
+Matt DeVos, Adam Dyck, Jonathan Jedwab and Samuel Simon. [[a href="https://doi.org/10.1007/s00373-020-02174-9"]]Which graphs occur as [[$\gamma$]]-graphs?[[/a]], Graphs and Combinatorics, 36:4 (2020), pp. 1219-1246. (Preprint: [[a href="https://arxiv.org/abs/1810.01583"]]arXiv:1810.01583[[/a]]).
 [[/li]][[li]]
 Carl Feghali. [[a href="https://doi.org/10.1007/s00373-020-02199-0"]]Reconfiguring [[$10$]]-colourings of planar graphs[[/a]], Graphs and Combinatorics, 36:6 (2020), pp. 1815-1818, May 2020. (Preprint: [[a href="https://arxiv.org/abs/1902.02278"]]arXiv:1902.02278[[/a]]).
 [[/li]][[li]]
@@ -100,11 +122,13 @@ John Asplund and Brett Werner. [[a href="https://doi.org/10.1016/j.disc.2019.111
 [[li]]
 Valentin Bartier, Nicolas Bousquet, Clément Dallard, Kyle Lomer, and Amer E. Mouawad. [[a href="https://doi.org/10.4230/LIPIcs.ISAAC.2020.44"]]On girth and the parameterized complexity of token sliding and token jumping[[/a]], Proceedings of ISAAC 2020, LIPIcs 181, pp. 44:1-44:17. (Preprint: [[a href="https://arxiv.org/abs/2007.01673"]]arXiv:2007.01673[[/a]]).
 [[/li]][[li]]
-Nicolas Bousquet, Alice Joffard, and Paul Ouvrard. [[a href="https://doi.org/10.4230/LIPIcs.ISAAC.2020.37"]]Linear transformations between dominating sets in the TAR-model[[/a]], Proceedings of ISAAC 2020, LIPIcs 181, pp. 37:1--37:14. (Preprint: [[a href="https://arxiv.org/abs/2006.16726"]]arXiv:2006.16726[[/a]]).
+Nicolas Bousquet, Alice Joffard, and Paul Ouvrard. [[a href="https://doi.org/10.4230/LIPIcs.ISAAC.2020.37"]]Linear transformations between dominating sets in the TAR-model[[/a]], Proceedings of ISAAC 2020, LIPIcs 181, pp. 37:1-37:14. (Preprint: [[a href="https://arxiv.org/abs/2006.16726"]]arXiv:2006.16726[[/a]]).
 [[/li]][[li]]
 Joep Hamersma, Marc van Kreveld, Yushi Uno, and Tom C. van der Zanden. [[a href="https://doi.org/10.4230/LIPIcs.ISAAC.2020.33"]]Gourds: a sliding-block puzzle with turning[[/a]], Proceedings of ISAAC 2020, LIPIcs 181, pp. 33:1-33:16. (Preprint: [[a href="https://arxiv.org/abs/2011.00968"]]arXiv:2011.00968[[/a]]).
 [[/li]][[li]]
 Daniel Lokshtanov, Amer E. Mouawad, Fahad Panolan and Sebastian Siebertz. [[a href="https://doi.org/10.4230/LIPIcs.IPEC.2020.24"]]On the Parameterized Complexity of Reconfiguration of Connected Dominating Sets[[/a]], Proceedings of IPEC 2020, LIPIcs 180, pp. 24:1-24:15. (Preprint: [[a href="https://arxiv.org/abs/1910.00581"]]arXiv:1910.00581[[/a]]).
+[[/li]][[li]]
+Tatsuhiko Hatanaka, Felix Hommelsheim, Takehiro Ito, Yusuke Kobayashi, Moritz Mühlenthaler, and Akira Suzuki. [[a href="https://doi.org/10.4230/LIPIcs.IPEC.2020.15"]]Fixed-Parameter Algorithms for Graph Constraint Logic[[/a]], Proceedings of IPEC 2020, LIPIcs 180, pp. 15:1--15:15. (Preprint: [[a href="https://arxiv.org/abs/2011.10385"]]arXiv:2011.10385[[/a]]).
 [[/li]][[li]]
 Fedor V. Fomin and Petr A. Golovach. [[a href="https://doi.org/10.4230/LIPIcs.ESA.2020.48"]]Kernelization of Whitney Switches[[/a]], Proceedings of ESA 2020, LIPIcs 173, pp. 48:1-48:19. (Preprint: [[a href="https://arxiv.org/abs/2006.13684"]]arXiv:2006.13684[[/a]]).
 [[/li]][[li]]
@@ -113,8 +137,6 @@ Nicolas Bousquet, Takehiro Ito, Yusuke Kobayashi, Haruka Mizuta, Paul Ouvrard, A
 Alexandre Blanché, Haruka Mizuta, Paul Ouvrard and Akira Suzuki. [[a href="https://doi.org/10.1007/978-3-030-48966-3_6"]]Decremental Optimization of Dominating Sets Under Reachability Constraints[[/a]], Proceedings of IWOCA 2020, LNCS 12126, pp. 69-82. (Preprint: [[a href="https://arxiv.org/abs/1906.05163"]]arXiv:1906.05163[[/a]]).
 [[/li]][[li]]
 Duc A. Hoang, Akira Suzuki and Tsuyoshi Yagita. [[a href="https://doi.org/10.1007/978-3-030-39881-1_12"]]Reconfiguring [[$k$]]-path vertex covers[[/a]], Proceedings of WALCOM 2020, LNCS 12049, pp. 133-145. (Preprint: [[a href="http://arxiv.org/abs/1911.03026"]]arXiv:1911.03026[[/a]]).
-[[/li]][[li]]
-Kei Kimura and Akira Suzuki. [[a href="https://doi.org/10.1007/978-3-030-39881-1_29"]]Trichotomy for the reconfiguration problem of integer linear systems[[/a]], Proceedings of WALCOM 2020, LNCS 12049, pp. 336-341. (Preprint: [[a href="https://arxiv.org/abs/1911.02786"]]arXiv:1911.02786[[/a]]).
 [[/li]][[li]]
 Nicolas Bousquet and Alice Joffard. [[a href="https://doi.org/10.1007/978-3-030-38919-2_7"]]Approximating Shortest Connected Graph Transformation for Trees[[/a]], Proceedings of SOFSEM 2020, LNCS 12011, pp. 76-87. (Preprint: [[a href="https://hal.archives-ouvertes.fr/hal-02358489/"]]hal-02358489[[/a]]).
 [[/li]]
@@ -144,9 +166,11 @@ C.M. Mynhardt and S. Nasserasr. [[a href="https://doi.org/10.1201/9780429280092-
 [[/li]][[li]]
 Stephen Finbow and Christopher M. van Bommel. [[a href="https://doi.org/10.3390/a12080153"]][[$\gamma$]]-Graphs of Trees[[/a]], Algorithms, 12:8 (2019), article 153, July 2019. (Preprint: [[a href="https://arxiv.org/abs/1907.03158"]]arXiv:1907.03158[[/a]]).
 [[/li]][[li]]
-Takehiro Ito and Yota Otachi. [[a href=""]]Reconfiguration of Colorable Sets in Classes of Perfect Graphs[[/a]], Theoretical Computer Science 772 (2019), pp. 111-122, June 2019. (A primary version is available in the [[a href="https://doi.org/10.4230/LIPIcs.SWAT.2018.27"]]Proceedings of SWAT 2018, LIPIcs 101, pp. 27:1 - 27:13[[/a]]. Preprint: [[a href="https://arxiv.org/abs/1802.06511"]]arXiv:1802.06511[[/a]]).
+Takehiro Ito and Yota Otachi. [[a href="https://doi.org/10.1016/j.tcs.2018.11.024"]]Reconfiguration of Colorable Sets in Classes of Perfect Graphs[[/a]], Theoretical Computer Science 772 (2019), pp. 111-122, June 2019. (A primary version is available in the [[a href="https://doi.org/10.4230/LIPIcs.SWAT.2018.27"]]Proceedings of SWAT 2018, LIPIcs 101, pp. 27:1 - 27:13[[/a]]. Preprint: [[a href="https://arxiv.org/abs/1802.06511"]]arXiv:1802.06511[[/a]]).
 [[/li]][[li]]
 Paul Bonsma and Daniël Paulusma. [[a href="https://doi.org/10.1007/s00236-019-00336-8"]]Using Contracted Solution Graphs for Solving Reconfiguration Problems[[/a]], Acta Informatica, 56 (2019), pp. 619-648, May 2019. (A primary version is available in the [[a href="https://doi.org/10.4230/LIPIcs.MFCS.2016.20"]]Proceedings of MFCS 2016, LIPIcs 58, pp. 20:1-20:15[[/a]]. Preprint: [[a href="https://arxiv.org/abs/1509.06357"]]arXiv:1509.06357[[/a]]).
+[[/li]][[li]]
+Marthe Bonamy, Nicolas Bousquet, Carl Feghali, Matthew Johnson. [[a href="https://doi.org/10.1016/j.jctb.2018.08.002"]]On a conjecture of Mohar concerning Kempe equivalence of regular graphs[[/a]], Journal of Combinatorial Theory, Series B, 135 (2019), pp. 179-199, March 2019. (Preprint: [[a href="https://arxiv.org/abs/1510.06964"]]arXiv:1510.06964[[/a]]).
 [[/li]][[li]]
 Kunihiro Wasa, Katsuhisa Yamanaka and Hiroki Arimura. [[a href="https://doi.org/10.1587/transinf.2018FCP0010"]]The Complexity of Induced Tree Reconfiguration Problems[[/a]], IEICE Transactions on Information and Systems, E102.D:3 (2019), pp. 464-469, March 2019. (A primary version is available in the [[a href="https://doi.org/10.1007/978-3-319-30000-9_26"]]Proceedings of LATA 2016, LNCS 9618, pp 330-342[[/a]]).
 [[/li]][[li]]
@@ -209,8 +233,6 @@ C.M. Mynhardt and Riana Roux. Irredundance Graphs. (Preprint: [[a href="https://
 [[/li]]
 [[li]]
 Marthe Bonamy, Nicolas Bousquet and Guillem Perarnau. Frozen [[$(\Delta+1)$]]-colourings of bounded degree graphs. (Preprint: [[a href="https://arxiv.org/abs/1811.12650"]]arXiv:1811.12650[[/a]]).
-[[/li]][[li]]
-Matt DeVos, Adam Dyck, Jonathan Jedwab and Samuel Simon. Which graphs occur as [[$\gamma$]]-graphs? (Preprint: [[a href="https://arxiv.org/abs/1810.01583"]]arXiv:1810.01583[[/a]]).
 [[/li]]
 [[/ul]]
 
@@ -364,8 +386,6 @@ Nicolas Bousquet and Guillem Perarnau. [[a href="https://doi.org/10.1016/j.ejc.2
 Duc A. Hoang and Ryuhei Uehara. [[a href="https://doi.org/10.4230/LIPIcs.ISAAC.2016.37"]]Sliding Tokens on a Cactus[[/a]], Proceedings of ISAAC 2016, LIPIcs 64, pp. 37:1-37:26.
 [[/li]][[li]]
 Tillmann Miltzow, Lothar Narins, Yoshio Okamoto, Günter Rote, Antonis Thomas and Takeaki Uno. [[a href="https://doi.org/10.4230/LIPIcs.ESA.2016.66"]]Approximation and Hardness of Token Swapping[[/a]], Proceedings of ESA 2016, LIPIcs 57, pp. 66:1-66:15. (Preprint: [[a href="https://arxiv.org/abs/1602.05150"]]arXiv:1602.05150[[/a]]).
-[[/li]][[li]]
-Takeshi Yamada and Ryuhei Uehara. [[a href="https://doi.org/10.1007/978-3-319-30139-6_19"]]Shortest Reconfiguration of Sliding Tokens on a Caterpillar[[/a]], Proceedings of WALCOM 2016, LNCS 9627, pp. 236-248. (Preprint: [[a href="https://arxiv.org/abs/1511.00243"]]arXiv:1511.00243[[/a]]).
 [[/li]]
 [[/ul]]
 
@@ -388,7 +408,7 @@ Tatsuhiko Hatanaka, Takehiro Ito and Xiao Zhou. [[a href="https://doi.org/10.158
 [[/li]][[li]]
 Katsuhisa Yamanaka, Erik D. Demaine, Takehiro Ito, Jun Kawahara, Masashi Kiyomi, Yoshio Okamoto, Toshiki Saitoh, Akira Suzuki, Kei Uchizawa and Takeaki Uno. [[a href="https://doi.org/10.1016/j.tcs.2015.01.052"]]Swapping Labeled Tokens on Graphs[[/a]], Theoretical Computer Science, 586 (2015), pp. 81-94, June 2015. (A primary version is available in the [[a href="https://doi.org/10.1007/978-3-319-07890-8_31"]]Proceedings of FUN 2014, LNCS 8496, pp. 364-375[[/a]]).
 [[/li]][[li]]
-Oswin Aichholzer, Andrei Asinowski, and Tillmann Miltzow. [[a href="https://www.combinatorics.org/ojs/index.php/eljc/article/view/v22i1p65"]]Disjoint Compatibility Graph of Non-Crossing Matchings of Points in Convex Position[[/a]], The Electronic Journal of Combinatorics, 22:1 (2015), article P1.65, March 2015. (Preprint: [[a href="https://arxiv.org/abs/1403.5546"]]arXiv:1403.5546[[/a]]).
+Oswin Aichholzer, Andrei Asinowski, and Tillmann Miltzow. [[a href="https://doi.org/10.37236/4403"]]Disjoint Compatibility Graph of Non-Crossing Matchings of Points in Convex Position[[/a]], The Electronic Journal of Combinatorics, 22:1 (2015), article P1.65, March 2015. (Preprint: [[a href="https://arxiv.org/abs/1403.5546"]]arXiv:1403.5546[[/a]]).
 [[/li]]
 [[/ul]]
 
